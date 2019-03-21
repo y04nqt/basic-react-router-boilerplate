@@ -1,0 +1,4 @@
+basic-react-router-boilerplate.qext;
+index.html;
+./dist/bundle.min.js;
+./style/style.css;
